@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "995400650846",
+    "project_id": "flutter-carpp-block-2025",
+    "storage_bucket": "flutter-carpp-block-2025.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995400650846:android:479e8ff338e4ea3ea7e4cf",
+        "android_client_info": {
+          "package_name": "com.example.flutter_block_firebase_carapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ12-YYaE_EvaHUXbiABBvXutfU9aOyGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
